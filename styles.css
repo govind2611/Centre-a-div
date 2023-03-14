@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+/* Style for the div */
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border-radius: 10px;
+  /* Add any other styles here */
+}
